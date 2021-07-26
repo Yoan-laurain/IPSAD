@@ -90,6 +90,9 @@ class Menu{
 							$temp2=true;
 						}
 						$t++;
+						if(!isset($this->composants[$t+1])){
+                            break;
+                        }
 					}
 
 					if($temp2)
@@ -147,7 +150,7 @@ class Menu{
 					while($this->composants[$t+1][3])
 					{
 
-						$this->menu .= "<li id = '" . $this->composants[$i+2][0] ."'>";
+						$this->menu .= "<li id = '" . $this->composants[$t+1][0] ."'>";
 						$this->menu .= "<a href='index.php?" . $nomMenu ;
 						$this->menu .= "=" . $this->composants[$t+1][0] . "' >";
 						$this->menu .= "<span>" . $this->composants[$t+1][1] ."</span>";
@@ -162,6 +165,9 @@ class Menu{
 						}
 					
 						$t++;
+						if(!isset($this->composants[$t+1])){
+                            break;
+                        }
 					}
 					if($temp)
 					{
