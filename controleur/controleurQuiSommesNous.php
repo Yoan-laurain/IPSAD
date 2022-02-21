@@ -30,8 +30,8 @@ $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->debutDiv("MidAccueil5"));
 
                     $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->debutDiv("MidAccueil5Texte"));
 
-                        $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->creerLabel("","","La performance des organisations passe par le bien-être des hommes et des femmes qui y travaillent
-                        Chez Coachs & Dirigeants, nous sommes convaincus que la performance des organisations passe par le bien-être des hommes et des femmes qui y travaillent, dont celui de leurs dirigeants. Notre accompagnement vise ce double but : la croissance des organisations et le développement de leur efficacité, par la sérénité des collaborateurs, des équipes et de leurs dirigeants ; le développement des collaborateurs et des dirigeants au travers de leur épanouissement au travail, dans un contexte pacifié et stimulant."));
+                        $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->creerLabel("","","La performance des organisations passe par le bien-être des hommes et des femmes qui y travaillent.
+                        Chez IPSAD, nous sommes convaincus que la performance des organisations passe par le bien-être des hommes et des femmes qui y travaillent, dont celui de leurs dirigeants. Notre accompagnement vise ce double but : la croissance des organisations et le développement de leur efficacité, par la sérénité des collaborateurs, des équipes et de leurs dirigeants ; le développement des collaborateurs et des dirigeants au travers de leur épanouissement au travail, dans un contexte pacifié et stimulant."));
                         
                         $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->finDiv());
 
@@ -81,7 +81,7 @@ $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->debutDiv("MidAccueil5"));
 
                     $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->debutDiv("MidAccueil5Texte"));
 
-                        $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->creerLabel("","","Convaincus enfin que l’accompagnement est un formidable outil pour accélérer et sécuriser l’évolution des Hommes et des organisations. Un accompagnement fondé sur une approche humaniste, associant bienveillance et exigence, efficacité et plaisir, performance et humilité. Un accompagnement à hauteur d’Homme. C’est cet accompagnement que nous avons à cœur de mettre en œuvre chaque jour, chez Coachs & Dirigeants"));    
+                        $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->creerLabel("","","Convaincus enfin que l’accompagnement est un formidable outil pour accélérer et sécuriser l’évolution des Hommes et des organisations. Un accompagnement fondé sur une approche humaniste, associant bienveillance et exigence, efficacité et plaisir, performance et humilité. Un accompagnement à hauteur d’Homme. C’est cet accompagnement que nous avons à cœur de mettre en œuvre chaque jour, chez IPSAD"));    
                     
                     $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->finDiv());   
                 
@@ -300,7 +300,7 @@ $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->debutDiv("Accueill8Block")
             $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->finDiv());
 
             $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->debutDiv("MidAccueil8BlockTexte"));
-                $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->creerLabel("","","Au-delà de ces aspects méthodologiques, Coachs & Dirigeants est attentif à instaurer et maintenir une ambiance bienveillante et à l’écoute des besoins des personnes accompagnées. Un climat positif qui contribue à la performance de l’action conduite, chaque séance visant à constituer une séquence professionnelle agréable et efficace."));
+                $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->creerLabel("","","Au-delà de ces aspects méthodologiques, IPSAD est attentif à instaurer et maintenir une ambiance bienveillante et à l’écoute des besoins des personnes accompagnées. Un climat positif qui contribue à la performance de l’action conduite, chaque séance visant à constituer une séquence professionnelle agréable et efficace."));
             $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->finDiv());
 
         $QuiSommesNous->ajouterComposantLigne($QuiSommesNous->finDiv());
